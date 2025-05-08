@@ -16,6 +16,6 @@
       "bigQueryLoadingTemporaryDirectory": "gs://pso-hackathon-nshah-temp/jdbc_temp/raw_transactions/",
       "username": "user1",
       "password": "changeme",
-      "createDisposition": "CREATE_NEVER"
+      "createDisposition": "CREATE_IF_NEEDED"
     }
   }
