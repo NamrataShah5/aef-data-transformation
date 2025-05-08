@@ -1,0 +1,10 @@
+{
+  "dataform_location":"us-central1",
+  "dataform_project_id":"pso-hackathon-nshah",
+  "repository_name": "sample-repo-1",
+  "branch": "main",
+  "tags": [
+    "process",
+    "transformation"
+  ]
+}
