@@ -1,0 +1,1 @@
+[{"name":"product_id","type":"STRING","description":"Product ID as defined in the source system."},{"name":"product_name","type":"STRING","description":"The product name as defined in the source system."}]
